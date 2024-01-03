@@ -12,3 +12,4 @@ C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debu
 C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.pdb
 C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.genruntimeconfig.cache
 C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\ref\DecolaTech.dll
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.sourcelink.json
