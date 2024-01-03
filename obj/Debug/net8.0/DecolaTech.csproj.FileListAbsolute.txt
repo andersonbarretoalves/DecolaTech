@@ -1,0 +1,14 @@
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\bin\Debug\net8.0\DecolaTech.exe
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\bin\Debug\net8.0\DecolaTech.deps.json
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\bin\Debug\net8.0\DecolaTech.runtimeconfig.json
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\bin\Debug\net8.0\DecolaTech.dll
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\bin\Debug\net8.0\DecolaTech.pdb
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.AssemblyInfoInputs.cache
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.AssemblyInfo.cs
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.csproj.CoreCompileInputs.cache
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.dll
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\refint\DecolaTech.dll
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.pdb
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\DecolaTech.genruntimeconfig.cache
+C:\Users\anderson.alves\Documents\Estudo da Programação\C#\DecolaTech\obj\Debug\net8.0\ref\DecolaTech.dll
