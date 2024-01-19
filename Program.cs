@@ -1,6 +1,10 @@
 ﻿using System.Diagnostics;
 using DecolaTech.Aulas;
 
+Tabuada tabuada = new Tabuada();
+tabuada.ContatorTabuada();
+
+/*
 OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
 operadoresLogicos.acesso();
 operadoresLogicos.presenca();
@@ -22,3 +26,4 @@ calc.Seno(30);
 calc.Cosseno(30);
 calc.Tangente(30);
 calc.RaizQuadrada(9);
+*/
