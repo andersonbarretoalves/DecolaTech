@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecolaTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e8cf978b12d1b55b2c466e6c4f878e9657e480a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecolaTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecolaTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

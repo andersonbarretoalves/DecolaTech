@@ -1,10 +1,14 @@
 ﻿using System.Diagnostics;
 using DecolaTech.Aulas;
 
+
+TabuadaWhile tabuadaWhile = new TabuadaWhile();
+tabuadaWhile.WhileTabuada();
+
+/*
 Tabuada tabuada = new Tabuada();
 tabuada.ContatorTabuada();
 
-/*
 OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
 operadoresLogicos.acesso();
 operadoresLogicos.presenca();
