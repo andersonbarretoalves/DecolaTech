@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj": {}
+    "c:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj": {
+    "c:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj",
+        "projectUniqueName": "c:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj",
         "projectName": "DecolaTech",
-        "projectPath": "C:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj",
+        "projectPath": "c:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\DecolaTech.csproj",
         "packagesPath": "C:\\Users\\anderson.alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\obj\\",
+        "outputPath": "c:\\Users\\anderson.alves\\Documents\\Estudo da Programação\\C#\\DecolaTech\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anderson.alves\\AppData\\Roaming\\NuGet\\NuGet.Config"

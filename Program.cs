@@ -1,11 +1,13 @@
 ﻿using System.Diagnostics;
 using DecolaTech.Aulas;
 
+SomaDoWhile somaDoWhile = new SomaDoWhile();
+somaDoWhile.Soma();
 
+/*
 TabuadaWhile tabuadaWhile = new TabuadaWhile();
 tabuadaWhile.WhileTabuada();
 
-/*
 Tabuada tabuada = new Tabuada();
 tabuada.ContatorTabuada();
 
