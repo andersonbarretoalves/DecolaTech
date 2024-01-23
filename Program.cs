@@ -1,10 +1,13 @@
 ﻿using System.Diagnostics;
 using DecolaTech.Aulas;
 
+MenuInterativo menuInterativo = new MenuInterativo();
+menuInterativo.Menu();
+
+/*
 SomaDoWhile somaDoWhile = new SomaDoWhile();
 somaDoWhile.Soma();
 
-/*
 TabuadaWhile tabuadaWhile = new TabuadaWhile();
 tabuadaWhile.WhileTabuada();
 
